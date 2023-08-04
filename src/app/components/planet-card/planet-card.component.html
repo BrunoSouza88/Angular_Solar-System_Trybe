@@ -1,4 +1,4 @@
-<div data-testid="planet-card">
+<div data-testid="planet-card" class="planet-card" [ngClass]="planetName.toLowerCase()">
   <p data-testid="planet-name">{{ planetName }}</p>
   <img [src]="planetImage" [alt]="'Planeta ' + planetName">
 </div>

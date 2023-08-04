@@ -1,0 +1,15 @@
+<section>
+  <div class="container">
+      <h2>Missões</h2>
+      <div class="missions">
+          <app-mission-card
+              *ngFor="let mission of missions; trackBy: trackByFn"
+              [name]="mission.name"
+              [year]="mission.year"
+              [country]="mission.country"
+              [destination]="mission.destination"
+              [attr.data-name]="mission.name"
+          ></app-mission-card>
+      </div>
+  </div>
+</section>

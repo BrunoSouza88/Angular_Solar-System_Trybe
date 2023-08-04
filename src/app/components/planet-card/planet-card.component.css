@@ -1,0 +1,39 @@
+.planet-card {
+  max-width: calc(25% - 20px);
+}
+
+.planet-card:hover {
+  background-color: grey;
+}
+
+.planet-card.mercurio:hover {
+  background-color: grey;
+}
+
+.planet-card.vênus:hover {
+  background-color: brown;
+}
+
+.planet-card.terra:hover {
+  background-color: blue;
+}
+
+.planet-card.marte:hover {
+  background-color: red;
+}
+
+.planet-card.jupiter:hover {
+  background-color: brown;
+}
+
+.planet-card.saturno:hover {
+  background-color: goldenrod;
+}
+
+.planet-card.urano:hover {
+  background-color: lightseagreen;
+}
+
+.planet-card.netuno:hover {
+  background-color: blue;
+}

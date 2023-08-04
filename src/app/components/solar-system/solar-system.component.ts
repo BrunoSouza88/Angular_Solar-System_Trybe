@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import * as planets from '../../data/planets.json';
+import planetsData from '../../../assets/data/planets.json';
 
 @Component({
   selector: 'app-solar-system',
@@ -8,5 +8,5 @@ import * as planets from '../../data/planets.json';
 })
 export class SolarSystemComponent {
   solarSystemHeadline = "Sistema Solar";
-  planetList = planets;
+  planetList = planetsData;
 }

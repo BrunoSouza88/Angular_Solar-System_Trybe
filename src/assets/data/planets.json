@@ -1,0 +1,10 @@
+[
+  { "name": "Mercúrio", "image": "/assets/images/Mercurio.png" },
+  { "name": "Vênus", "image": "/assets/images/Venus.png" },
+  { "name": "Terra", "image": "/assets/images//Terra.png" },
+  { "name": "Marte", "image": "/assets/images//Marte.png" },
+  { "name": "Júpiter", "image": "/assets/images//Jupiter.png" },
+  { "name": "Saturno", "image": "/assets/images//Saturno.png" },
+  { "name": "Urano", "image": "/assets/images//Urano.png" },
+  { "name": "Netuno", "image": "/assets/images//Netuno.png" }
+]
