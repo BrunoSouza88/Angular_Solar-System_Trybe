@@ -1,4 +1,4 @@
-# **Angular Solar System** 🪐
+# **Solar System** 🪐
 
 ## **Description** 🚀
 Angular Solar System is a project developed as part of my studies to improve my skills in Angular. I'm using Trybe projects (Trybe teaches React) as a guide to do the same project in Angular. It is a web application that allows users to explore and learn about the solar system. The application provides an interactive 3D visualization of the planets, along with information about each planet, its moons, and other celestial bodies.
