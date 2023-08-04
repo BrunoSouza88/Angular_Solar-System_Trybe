@@ -1,27 +1,60 @@
-# SolarSystem
+# **Angular Solar System** 🪐
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+## **Description** 🚀
+Angular Solar System is a project developed as part of my studies to improve my skills in Angular. I'm using Trybe projects (Trybe teaches React) as a guide to do the same project in Angular. It is a web application that allows users to explore and learn about the solar system. The application provides an interactive 3D visualization of the planets, along with information about each planet, its moons, and other celestial bodies.
 
-## Development server
+## **Technologies Used** 🛠️
+The project is built using the following technologies:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Angular
+- HTML5
+- CSS3
 
-## Code scaffolding
+## **Features** ✨
+- Interactive 3D visualization of the solar system.
+- Detailed information about each planet, including its name, size, distance from the sun, and composition.
+- Information about the moons of each planet.
+- Navigation controls to explore the solar system from different angles.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## **Getting Started** 🚀
+To run the project locally, follow these steps:
 
-## Build
+1. Clone the repository:
+```bash
+git clone https://github.com/BrunoSouza88/Angular_Solar-System_Trybe.git
+```
+2. Navigate to the project directory:
+```bash
+cd Angular_Solar-System_Trybe
+```
+3. Install the dependencies:
+```bash
+npm install
+```
+4. Start the development server:
+```bash
+npm start
+```
+Access the application in your browser at http://localhost:4200.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## **Contribution** 🤝
+Contributions to this project are welcome. If you find any issues or have ideas for improvements, feel free to open an issue or create a pull request. Your feedback is valuable and greatly appreciated.
 
-## Running unit tests
+To contribute, follow these steps:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Fork this repository.
+2. Create a new branch for your feature (git checkout -b feature/MyFeature).
+3. Make necessary changes and commit (git commit -m 'Adding my feature').
+4. Push to the created branch (git push origin feature/MyFeature).
+5. Open a pull request.
 
-## Running end-to-end tests
+Be sure to adhere to the project's coding standards and practices.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## **License** 📜
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Further help
+## **Contact** 📧
+If you have any questions or suggestions, feel free to contact me:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Bruno Souza
+Email: bmsouza88@gmail.com
